@@ -1,0 +1,39 @@
+Output for PrintCheckerPattern :
+
+* * * * *
+ * * * * *
+* * * * *
+ * * * * *
+* * * * *
+
+-------------------------------------------
+
+Output for PrintSquarePattern  :
+
+* * * * *
+*       *
+*       *
+*       *
+* * * * *
+
+
+------------------------------------------
+
+Output for PrintTriangularPattern :
+
+* * * * *
+ *     * 
+  *   *  
+   * *   
+    *    
+
+------------------------------------------
+
+Output for PrintStarPattern  :
+
+    *    
+* *   * *
+   * *   
+  *   *  
+*       *
+
